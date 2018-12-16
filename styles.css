@@ -1,0 +1,18 @@
+body {
+	background:#c9eeff;
+}
+
+h3 {
+	color: black;
+}
+
+.btn-outline-primary {
+	float: right;
+}
+
+li.task-completed {
+	background-color: green !important;
+	color: white !important;
+}
+
+
